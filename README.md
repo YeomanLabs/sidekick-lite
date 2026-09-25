@@ -17,6 +17,8 @@ On first launch he asks for his brain: a one-time download of about **5.8 GB** (
 - **Chat.** Double-click him (or press **Ctrl+Shift+Space**) and type. Replies show up in a speech bubble. Deadpan, unimpressed, secretly helpful.
 - **Lives on your screen.** Walks the taskbar, hops onto the window you're using and rides it if you move it, jumps off the edge, sits down and naps with "z" on his face when you're away.
 - **Throw him.** Grab him and fling. He tumbles, bounces off the edges of the screen, and complains about it.
+- **He runs on a battery.** When it gets low he drags his feet and complains, then walks to the corner of your taskbar and sits on his charging pad. Don't poke him while he's charging.
+- **He owns a car. He can't drive.** Every so often (or when you tell him to) he hops into a tiny red convertible, floors it along the taskbar, and crashes into the edge of the screen.
 - **Poke him.** He gets progressively more annoyed and eventually follows through: sulks, storms off, or grabs your mouse cursor and yeets it into the corner.
 - **Watches your screen, locally.** Every so often he looks at what you're doing and comments only if it's worth it. Skips password managers, banking, and private windows.
 - **Roasts your gaming.** In a game, he glances at the screen every ~25 seconds and trash-talks you when you die. Turn it off in the tray if you'd rather he didn't use your GPU while you play.
